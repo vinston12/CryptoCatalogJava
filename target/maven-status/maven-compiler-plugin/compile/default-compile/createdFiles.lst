@@ -1,0 +1,8 @@
+com\example\databaseproject\model\Coingecko\CryptoDTO.class
+com\example\databaseproject\Repository\CustomCryptoRepository.class
+com\example\databaseproject\controller\Coingecko\CoigneckoCapController.class
+com\example\databaseproject\DatabaseProjectApplication.class
+com\example\databaseproject\Repository\CryptoRepository.class
+com\example\databaseproject\service\Coingecko\CoingeckoCryptoService.class
+com\example\databaseproject\Entity\Crypto.class
+com\example\databaseproject\Repository\CustomCryptoRepositoryImpl.class
